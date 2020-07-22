@@ -1,0 +1,4 @@
+D:\GameHacking\FollowWhiteRabbit\x64\Debug\FollowWhiteRabbitHax.exe
+D:\GameHacking\FollowWhiteRabbit\x64\Debug\FollowWhiteRabbitHax.pdb
+D:\GameHacking\FollowWhiteRabbitHax\x64\Debug\FollowWhiteRabbitHax.exe
+D:\GameHacking\FollowWhiteRabbitHax\x64\Debug\FollowWhiteRabbitHax.pdb
