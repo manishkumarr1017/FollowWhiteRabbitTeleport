@@ -1,2 +1,0 @@
-D:\GameHacking\FollowWhiteRabbitHax\TeleportDllHax\x64\Debug\TeleportDllHax.dll
-D:\GameHacking\FollowWhiteRabbitHax\TeleportDllHax\x64\Debug\TeleportDllHax.pdb
